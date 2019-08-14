@@ -1,4 +1,4 @@
-FROM docker:stable
+FROM docker:stable-dind
 
 LABEL maintainer="tobias.varlemann@qualityminds.de"
 
